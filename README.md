@@ -1,4 +1,4 @@
-# BrandStack  database is on irewoledammy50@gmail.com
+# BrandStack 
 
 ## 🌎 Live Site
 [View the portfolio](#) *(https://dammydx.github.io/BrandStack/)*
